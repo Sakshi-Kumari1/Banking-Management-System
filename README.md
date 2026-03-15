@@ -2,6 +2,8 @@
 
 A Spring Boot application for managing banking operations including customer management, account management, and money transfer transactions.
 
+> 🚨 **Can't see premium models in IntelliJ Copilot?** Check [QUICKSTART.md](QUICKSTART.md) for a quick fix!
+
 ## Features
 
 - **Customer Management**: Create, Read, Update, and Delete customer records
